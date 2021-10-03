@@ -1,0 +1,16 @@
+.logotext{
+    font-family:Roboto;
+    color: rgb(13,202,240);
+    background-color: rgb(13,202,240);
+}
+.container{
+    font-family: Roboto;
+    padding: 5px;
+}
+.contact{
+    font-family: Consolas;
+}
+.heading{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(171,129,79);
+}
